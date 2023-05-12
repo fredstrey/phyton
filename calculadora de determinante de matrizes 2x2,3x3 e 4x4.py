@@ -3,7 +3,7 @@ lc = int(input())
 if lc < 2:
     print("não é uma matriz, burro!")
 if lc > 4:
-    print("eu so sei calcular determinante de matriz 2x2, 3x3 e 4x4, analfabeto!")
+    print("eu so sei calcular determinante de matriz 2x2, 3x3 e 4x4!")
 if lc== 3:
     i1,i2,i3=0,0,0
     l1,l2,l3=[],[],[]
