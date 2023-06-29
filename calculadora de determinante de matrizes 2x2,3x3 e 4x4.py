@@ -1,7 +1,7 @@
 print("insira o número de linhas e colunas da matriz (obs: so sei calcular determinante de matriz 2x2, 3x3 e 4x4)")
 lc = int(input())
 if lc < 2:
-    print("não é uma matriz, burro!")
+    print("não é uma matriz!")
 if lc > 4:
     print("eu so sei calcular determinante de matriz 2x2, 3x3 e 4x4!")
 if lc== 3:
